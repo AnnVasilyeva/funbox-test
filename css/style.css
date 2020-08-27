@@ -254,9 +254,6 @@ h1 {
 
 
 @media only screen and (min-width : 768px) and (max-width : 1119px) {
-    .container {
-        text-align: center;
-    }
 
     .main-content {
         margin: 0 auto;
